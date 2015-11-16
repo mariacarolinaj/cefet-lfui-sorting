@@ -34,3 +34,11 @@
 1447458394 source:c:\users\flavio\documents\github\cefet-lfui-sorting\selecao.cpp
 	"ordenacao.h"
 
+1447688889 source:c:\users\aluno\documents\github\cefet-lfui-sorting\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"ordenacao.h"
+
+1447689457 c:\users\aluno\documents\github\cefet-lfui-sorting\ordenacao.h
+
